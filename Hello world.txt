@@ -3,3 +3,4 @@ print ("Hello");
 print ("commit");
 print ("Hello my dear friend");
 print ("Glad to see you");
+print ("New commit for console")
